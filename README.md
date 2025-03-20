@@ -11,10 +11,10 @@ cd $HOME && rm -rf layeredge.sh && wget -O layeredge.sh https://raw.githubuserco
 - ➡️ Link your CLI node's Public Key
 
 ## ⚙️ To check points, use API:
-https://light-node.layeredge.io/api/cli-node/points/{walletAddress}
+- https://light-node.layeredge.io/api/cli-node/points/{walletAddress}
 
 ## 🎮 Join Discord:
 - https://discord.com/invite/layeredge
 
 # ☕️ Traktir kopinya & Thanks for Supporting us:
-- 🟢 https://trakteer.id/yovica
+-  https://trakteer.id/yovica
