@@ -17,4 +17,4 @@ cd $HOME && rm -rf layeredge.sh && wget -O layeredge.sh https://raw.githubuserco
 - https://discord.com/invite/layeredge
 
 # ☕️ Traktir kopinya & Thanks for Supporting us:
--  https://trakteer.id/yovica
+- https://trakteer.id/garapanairdrop/tip
